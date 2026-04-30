@@ -1,2 +1,2 @@
-# Ejercio-1-python
-Porcentajes de diferencia de duracion entre distintos cursos
+Ejercios de Python
+Distintos cosas vistas en el curso
